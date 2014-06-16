@@ -4,6 +4,7 @@
 
 > [Swift 开发者社区](http://swiftist.org)
 
+
 <!-- -->
 > 如果你觉得这个项目不错，请[点击Star一下](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)，您的支持我们最大的动力。
 
